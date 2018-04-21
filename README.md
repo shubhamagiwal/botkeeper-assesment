@@ -27,8 +27,8 @@ Feel free to get as creative as you want, and extra points if you use ES6. Pleas
 # Installation Steps
 
 1. Install node and npm onto your system <br/>
-    Node installation: https://nodejs.org/en/download/package-manager/
-    npm installation: https://blog.npmjs.org/post/85484771375/how-to-install-npm
+    Node installation: https://nodejs.org/en/download/package-manager/<br/>
+    npm installation: https://blog.npmjs.org/post/85484771375/how-to-install-npm<br/>
 
 2. Go inside the botkeeper-assesment folder and run the following command
     `npm install`
