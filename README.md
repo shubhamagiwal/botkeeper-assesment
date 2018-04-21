@@ -35,10 +35,14 @@ Feel free to get as creative as you want, and extra points if you use ES6. Pleas
 
 3. Run `npm install dev` to start the node server.
 
-4. Install `postman` or open any `web browser`
+4. Install `postman application` or open any `web browser`.
 
-5. The new endpoints for *product_inventory* together is as follows<br />
+5. Run `localhost:8000` on the `web browser` or `postman application`.
 
-    *Product Inventory Endpoints:* <br/>
+6. The output for the `localhost:8000` should be `Cannot GET /` as it is not defined. The endpoints that are created is mentioned below.
+
+7. The new endpoints for *product_inventory* together is as follows<br />
+
+    *Product Inventory Endpoints:* <br/><br/>
     **/products_inventory** - returns all of the products along with each products inventory <br/>
     **/products_inventory/name** - returnsfor the user to get a single product and have it return the product name, price and inventory <br/>
