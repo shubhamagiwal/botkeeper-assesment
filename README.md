@@ -10,7 +10,7 @@ You need to build a NodeJS service to aggregate data from two different apis and
 **/inventory** - returns the inventory for all the products we have <br/>
 **/inventory/name**  - returns the inventory for a single product <br/>
 
-**Product Endpoints:**
+**Product Endpoints:**<br/>
 **/products** - returns the all of the products and their prices <br/>
 **/products/name** - returns a single products and its price <br/>
 
@@ -26,7 +26,7 @@ Feel free to get as creative as you want, and extra points if you use ES6. Pleas
 
 # Installation Steps
 
-1. Install node and npm onto your system
+1. Install node and npm onto your system <br/>
     Node installation: https://nodejs.org/en/download/package-manager/
     npm installation: https://blog.npmjs.org/post/85484771375/how-to-install-npm
 
@@ -35,10 +35,10 @@ Feel free to get as creative as you want, and extra points if you use ES6. Pleas
 
 3. Run `npm install dev` to start the node server.
 
-4. Install postman or open browser
+4. Install `postman` or open any `web browser`
 
 5. The new endpoints for *product_inventory* together is as follows<br />
 
-    *Product Inventory Endpoints:*
+    *Product Inventory Endpoints:* <br/>
     **/products_inventory** - returns all of the products along with each products inventory <br/>
     **/products_inventory/name** - returnsfor the user to get a single product and have it return the product name, price and inventory <br/>
