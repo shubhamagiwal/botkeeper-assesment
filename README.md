@@ -43,6 +43,6 @@ Feel free to get as creative as you want, and extra points if you use ES6. Pleas
 
 7. The new endpoints for *product_inventory* together is as follows<br />
 
-    *Product Inventory Endpoints:* <br/><br/>
+    **Product Inventory Endpoints:** <br/><br/>
     **/products_inventory** - returns all of the products along with each products inventory <br/>
     **/products_inventory/name** - returnsfor the user to get a single product and have it return the product name, price and inventory <br/>
