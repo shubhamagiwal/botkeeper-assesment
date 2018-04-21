@@ -6,17 +6,17 @@ botkeeper initial programming assessment
 **Overview:** <br/>
 You need to build a NodeJS service to aggregate data from two different apis and then return it to the user. There is a products api and an inventory api, they have the following api endpoints:
 
-**Inventory Endpoints:**<br/>
+**Inventory Endpoints:**<br/><br/>
 **/inventory** - returns the inventory for all the products we have <br/>
 **/inventory/name**  - returns the inventory for a single product <br/>
 
-**Product Endpoints:**<br/>
+**Product Endpoints:**<br/><br/>
 **/products** - returns the all of the products and their prices <br/>
 **/products/name** - returns a single products and its price <br/>
 
 The **base url** is http://autumn-resonance-1298.getsandbox.com <br/>
 
-**What you need to build:**
+**What you need to build:**<br/>
 you need to create two api endpoints in your NodeJS service to do the following:
 1. An api endpoint for the user to get all of the products along with each products inventory. It should return an array of products that include the product's name, price and inventory
 2. An api endpoint for the user to get a single product and have it return the product name, price and inventory.
